@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 31abbbcf2f33bcf4aabf762a4d9b1790
+timeCreated: 1529630511
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122913
+  packageName: MeadowLands Stylized Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/PolyAnarchy/MeadowLands/Prefabs/plantB.prefab
+  uploadId: 256176

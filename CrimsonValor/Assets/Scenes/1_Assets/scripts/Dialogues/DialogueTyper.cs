@@ -6,9 +6,32 @@ using UnityEngine.XR;
 public class DialogueTyper : MonoBehaviour
 {
     [Header("References")]
+    [SerializeField] private TMP_Text nameText;   
+
     [SerializeField] private TMP_Text dialogueText;
     [SerializeField] private AudioSource audioSource;
     [SerializeField] private GameObject dialogueIndicatorImage;
+
+    [Header("Speaker")]
+    [SerializeField] private string speakerName;
+    [Header("Name UI")]
+    [SerializeField] private GameObject nameTextField;
+
+
+    public void HideName()
+    {
+        if (nameTextField != null)
+            nameTextField.SetActive(false);
+    }
+
+    public void ShowName()
+    {
+        if (nameTextField != null)
+            nameTextField.SetActive(true);
+    }
+
+
+
 
     [Header("Typing")]
     [SerializeField] private float typingSpeed = 0.04f;
@@ -22,7 +45,22 @@ public class DialogueTyper : MonoBehaviour
 
     public bool IsDialogueFinished { get; private set; }
 
-    /* ---------------- PUBLIC API ---------------- */
+    [SerializeField] private GameObject dialogueRoot;
+    // assign the parent UI object in Inspector
+
+    public void HideDialogueUI()
+    {
+        if (dialogueRoot != null)
+            dialogueRoot.SetActive(false);
+    }
+
+    public void ShowDialogueUI()
+    {
+        if (dialogueRoot != null)
+            dialogueRoot.SetActive(true);
+    }
+
+
 
     public void StartDialogue(string[] dialogueArray)
     {
@@ -38,6 +76,9 @@ public class DialogueTyper : MonoBehaviour
 
         dialogueText.text = "";
 
+        if (nameText != null)
+            nameText.text = speakerName;
+
         if (dialogueIndicatorImage != null)
             dialogueIndicatorImage.SetActive(true);
 
@@ -52,9 +93,7 @@ public class DialogueTyper : MonoBehaviour
         if (!canContinue || IsDialogueFinished) return;
 
         if (IsBPressed())
-        {
             NextDialogue();
-        }
     }
 
     /* ---------------- CORE ---------------- */
@@ -89,7 +128,6 @@ public class DialogueTyper : MonoBehaviour
     {
         index++;
 
-        // 🔴 END OF DIALOGUE SEQUENCE
         if (index >= dialogues.Length)
         {
             dialogueText.text = "";

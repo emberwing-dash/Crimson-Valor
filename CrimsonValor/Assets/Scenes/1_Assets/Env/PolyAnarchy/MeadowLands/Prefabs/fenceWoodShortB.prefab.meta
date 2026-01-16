@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: be4193ba8937e404abb50fb578f64d3b
+timeCreated: 1526968216
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122913
+  packageName: MeadowLands Stylized Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/PolyAnarchy/MeadowLands/Prefabs/fenceWoodShortB.prefab
+  uploadId: 256176

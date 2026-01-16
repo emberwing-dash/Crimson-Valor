@@ -5,15 +5,24 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/0_MainScene/0_Starting/Main/MenuFinal2.unity
+    guid: 70c19d230d5a0ce46ada76e8d1720981
   - enabled: 1
     path: Assets/Scenes/0_MainScene/0_Starting/MainMenu.unity
     guid: f82e87e6e77e6004aae602caaf10f2be
   - enabled: 1
+    path: Assets/Scenes/0_MainScene/3_Cutscene/Cutscene_Fighting2.unity
+    guid: 400ed8a4148c0cf47ac582c762b2d0fd
+  - enabled: 0
+    path: Assets/Scenes/0_MainScene/3_Cutscene/Cutscene_Fighting.unity
+    guid: 94b262d53e00cb940ae91be1220a3902
+  - enabled: 0
+    path: Assets/Scenes/0_MainScene/1_Quests/QuestAdventure.unity
+    guid: 286db1f35f4765f43a4ec3f2542ede20
+  - enabled: 0
     path: Assets/Scenes/0_MainScene/0_Starting/DarkForest.unity
     guid: 1c51b7a7ce306634491477e62f0ac84d
-  - enabled: 1
-    path: Assets/Scenes/0_MainScene/Quests/QuestAdventure.unity
-    guid: 286db1f35f4765f43a4ec3f2542ede20
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58f7cfd7389b5af40b323da10e8c83a2, type: 2}

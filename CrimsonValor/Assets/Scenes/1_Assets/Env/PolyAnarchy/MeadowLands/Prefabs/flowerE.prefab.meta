@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6e6d2921afb065c43a8c0f48163d46b0
+timeCreated: 1529624515
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122913
+  packageName: MeadowLands Stylized Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/PolyAnarchy/MeadowLands/Prefabs/flowerE.prefab
+  uploadId: 256176

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ebd24f9e98b87b043828d22ba49af089
+timeCreated: 1529802498
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122913
+  packageName: MeadowLands Stylized Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/PolyAnarchy/MeadowLands/Prefabs/lillypadA.prefab
+  uploadId: 256176

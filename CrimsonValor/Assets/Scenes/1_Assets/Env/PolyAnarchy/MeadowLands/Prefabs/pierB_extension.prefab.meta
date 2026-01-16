@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f87227c8c27012840b71f20c9dbfec8f
+timeCreated: 1531292503
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122913
+  packageName: MeadowLands Stylized Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/PolyAnarchy/MeadowLands/Prefabs/pierB_extension.prefab
+  uploadId: 256176
