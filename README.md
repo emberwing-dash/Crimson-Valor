@@ -5,7 +5,7 @@ SRIB-PRISM Program
 <h1 align="center">Theme: Entertainment and Gaming</h1>
 
 <p align="center">
-  <img width="317" alt="s1" src="https://github.ecodesamsung.com/SRIB-PRISM/IXR_Meta_Proton/assets/42833/4f956e11-13cd-4f6b-8888-0ce0726b5367">
+<img width="634" height="565" alt="s1" src="https://github.com/user-attachments/assets/5c05bd35-2879-484c-8c04-e99212f95820" />
 </p>
 
 ---
@@ -33,10 +33,11 @@ His path leads him deep into the Crimson Woods, where he finally confronts the D
 
 Screenshots showcasing gameplay, environments, combat mechanics, and VR interactions can be found here:
 
-<img width="329" alt="s2" src="https://github.ecodesamsung.com/SRIB-PRISM/IXR_Meta_Proton/assets/42833/d1735a83-7146-4641-9bc4-915d8240b550">
-<img width="223" alt="s4" src="https://github.ecodesamsung.com/SRIB-PRISM/IXR_Meta_Proton/assets/42833/ebb8d5e8-b748-4177-a5e6-0c4ab69ba8a9">
-<img width="185" alt="s5" src="https://github.ecodesamsung.com/SRIB-PRISM/IXR_Meta_Proton/assets/42833/a35e49f9-8bf0-44c5-ae59-d8290438b49f">
-<img width="176" alt="s6" src="https://github.ecodesamsung.com/SRIB-PRISM/IXR_Meta_Proton/assets/42833/741d694a-be88-4c86-83a1-e23f25370074">
+<img width="658" height="480" alt="s2" src="https://github.com/user-attachments/assets/0fecd13f-3041-491a-85b0-3bfa03d2bc29" />
+<img width="445" height="343" alt="s3" src="https://github.com/user-attachments/assets/b04d7019-551b-4353-bd20-4e5de89afc5d" />
+<img width="370" height="343" alt="s4" src="https://github.com/user-attachments/assets/e2636517-f5c8-4759-984e-368582bd5fd4" />
+<img width="352" height="352" alt="s5" src="https://github.com/user-attachments/assets/e345328e-c9ec-4d5c-838d-4973de497d2a" />
+
 
 
 ---
@@ -61,7 +62,8 @@ Project PPT : *https://drive.google.com/file/d/1WULO-hCcZeI07ur3TXxaokbIbItI8j0-
 
 # API Instruction
 
-<img width="324" alt="s3" src="https://github.ecodesamsung.com/SRIB-PRISM/IXR_Meta_Proton/assets/42833/ea67a901-7ac1-4480-a702-ef580b792d80">
+<img width="648" height="334" alt="s6" src="https://github.com/user-attachments/assets/d0b9dd1f-2dea-4bd5-af39-f1ff93e07104" />
+
 
 Neocortex API was used to develop & train the AI model
 
