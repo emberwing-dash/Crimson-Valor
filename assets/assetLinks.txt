@@ -1,0 +1,28 @@
+Unity Asset Store:
+1. https://assetstore.unity.com/packages/3d/environments/fantasy/idyllic-fantasy-nature-260042
+2. https://assetstore.unity.com/packages/3d/environments/fantasy/fantasy-worlds-forest-free-stylized-forest-environment-open-worl-282610
+3. https://assetstore.unity.com/packages/vfx/particles/cartoon-fx-remaster-free-109565#reviews
+4. https://assetstore.unity.com/packages/vfx/particles/fire-explosions/vfx-urp-fire-package-305098
+5. https://assetstore.unity.com/packages/3d/environments/fantasy/meadowlands-stylized-environment-pack-122913#reviews
+
+
+
+Models:
+1. https://www.cgtrader.com/free-3d-models/military/melee/stylized-knight-sword-paladin-sword-initiates-blade
+2. https://www.cgtrader.com/free-3d-models/exterior/exterior-public/low-poly-forest-lumber-camp-stylized-3d-environment-pack
+3. https://www.cgtrader.com/free-3d-models/plant/other/snow-covered-trees-stylized-winter-nature
+
+Music
+https://xdeviruchi.itch.io/8-bit-fantasy-adventure-music-pack
+https://www.youtube.com/watch?v=aLnGfowzDhY
+https://pixabay.com/users/royaltyfreemusicstudio-41310078/
+
+Attributions (MUSIC):
+Music by <a href="https://pixabay.com/users/royaltyfreemusicstudio-41310078/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=462199">Iaroslav Mzhelskii</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=462199">Pixabay</a>
+
+Addons:
+https://github.com/DavidArayan/ezy-slice (for  slicing objects)
+https://github.com/neocortex-link/neocortex-unity-sdk 
+
+Datasets trained in:
+https://neocortex.link/

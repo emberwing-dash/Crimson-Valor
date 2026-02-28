@@ -1,0 +1,5 @@
+Extract the zip file and open the "CrimsonValor.exe" to run the game
+
+The Smart NPC (in tutorial section) only works when run on the Unity Editor
+Therefore, in the final export, the AI NPC wont interact as the Neocortex API connection is only available in testing purposes only.
+So to test out the AI NPC, kindly run the game on the Unity Editor after opening the project folder.
